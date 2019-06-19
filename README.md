@@ -11,13 +11,13 @@ Either use npm or yarn. I used yarn.
 
 ###yarn
 
-```
+````
 yarn install
-```
+````
 
 ###npm
 
-```
+````
 npm install
 ```
 
